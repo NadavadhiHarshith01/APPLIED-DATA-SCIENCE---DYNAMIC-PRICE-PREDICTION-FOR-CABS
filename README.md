@@ -19,3 +19,6 @@
 ### Real-time Prediction
   Once the model is trained and evaluated, it can be deployed to make real-time predictions. The model takes input from the current cab ride request, including pickup and drop-off locations, and provides an estimated fare amount based on the learned patterns.
 
+## Video Link
+  https://drive.google.com/file/d/1iyRhT3BHB_Gg9P-VreJDpWSB7mIEGwqP/view?usp=sharing
+  
